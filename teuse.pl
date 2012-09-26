@@ -26,6 +26,7 @@ my @yops = qw(
 	enchantier!
 	salut!
 	salutations!
+	oya!
 	);
 my @meh = (
    'gné ?',
